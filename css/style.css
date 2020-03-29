@@ -1,0 +1,29 @@
+@media only screen and (min-widith:480px) and (max-widith:767px){
+ #a{
+ background-color: #d8d8d8;
+ height: 480px;
+ width: 75px;
+ border: solid black 2px;
+ }   
+#b{
+ background-color: #d8d8d8;
+ height: 480px;
+ width: 75px;
+ border: solid black 2px;
+ }
+ #c{
+ background-color: #d8d8d8;
+ height: 480px;
+ width: 75px;
+ border: solid black 2px;
+
+ }   
+ #d{
+ background-color: #d8d8d8;
+ height: 480px;
+ width: 75px;
+ border: solid black 2px;
+
+ }      
+
+}
